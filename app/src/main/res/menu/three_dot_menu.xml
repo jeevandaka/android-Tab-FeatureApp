@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item android:id="@+id/like_dislike"
+        android:icon="@drawable/like_24"
+        android:title="Like"
+        />
+    <item android:id="@+id/fav"
+        android:title="Favourite" />
+</menu>
